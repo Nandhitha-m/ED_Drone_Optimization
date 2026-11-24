@@ -1,0 +1,11 @@
+git status
+git add m6.py m6_output/
+git commit -m "Wire M5 CRN hook, Pareto/knee/weighted-sum checks, and P95 analysis for M6"
+git push origin main
+
+cd path/to/your/repo
+python m6.py
+git status
+git add m6.py m6_output/
+git commit -m "Update M6 optimizer, Pareto/knee/weighted-sum verification, and P95 notes"
+git push origin main
