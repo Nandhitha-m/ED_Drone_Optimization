@@ -1,0 +1,6 @@
+vehicle,payload_kg,m1_range_km,usable_route_limit_km,annual_cost_inr,lp_relaxation_inr,lp_gap_percent,opened_hubs,solver_status,selected
+M1_0.50kg,0.5,33.2365,29.91285,17484245.09,16837508.07,3.699,H1;H2;P09,Optimization terminated successfully. (HiGHS Status 7: Optimal),True
+M1_1.00kg,1.0,32.613,29.3517,17635942.99,16949103.91,3.8945,H1;H2;P09,Optimization terminated successfully. (HiGHS Status 7: Optimal),False
+M1_1.50kg,1.5,32.002,28.801800000000004,17813659.48,17109267.68,3.9542,H5;H6;P09,Optimization terminated successfully. (HiGHS Status 7: Optimal),False
+M1_2.00kg,2.0,31.4037,28.26333,17967041.02,17221265.57,4.1508,H5;H6;P09,Optimization terminated successfully. (HiGHS Status 7: Optimal),False
+M1_2.50kg,2.5,30.818,27.7362,18447136.75,17772188.66,3.6588,H1;H2;H4,Optimization terminated successfully. (HiGHS Status 7: Optimal),False
