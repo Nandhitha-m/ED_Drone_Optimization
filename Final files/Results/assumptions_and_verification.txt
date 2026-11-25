@@ -1,0 +1,11 @@
+M4 annual cost comparison and hub/fleet optimization completed.
+Selected vehicle: M2_0.50kg; annual cost INR 17,429,110.90; LP gap 5.6987%.
+Additional path reserve: 90.0% of M1 radius (M1 already includes 15% battery reserve).
+Observed hourly profile sums before normalization: {'emergency': 0.9996999999999999, 'routine': 1.1993000000000007, 'lab': 0.9993000000000002}.
+Weather grounded-hour fraction: 5.4452%; outage-hour fraction (weekday inferred using 2025): 5.3767%.
+Weather direction is unspecified, so wind magnitude is conservatively applied as headwind in both directions.
+Package weights by class are absent; each M1 payload-radius point is treated as its representative loaded mission.
+Enumeration check tested 16 assignments and matched the MILP within INR 0.0777.
+LP gap = (integer optimum - continuous relaxation optimum) / integer optimum.
+Drone/bay big-M bounds are computed from total feasible workload/energy and deliberately overcount PHCs; no arbitrary large constants are used.
+Expected demand is Poisson-average planning, not a queueing simulation. Emergency service reliability and peak congestion need M5 simulation.

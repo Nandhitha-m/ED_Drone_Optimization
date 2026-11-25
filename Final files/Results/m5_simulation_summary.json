@@ -1,0 +1,16 @@
+{
+  "vehicle": "M2_0.50kg",
+  "simulation_days_with_arrivals": 1,
+  "orders": 171,
+  "emergencies": 30,
+  "S45_percent": 100.0,
+  "p95_emergency_minutes": 35.325607289120555,
+  "road_fallback_share": 0.0,
+  "flight_energy_Wh": 106243.85873775977,
+  "grid_energy_Wh": 105217.33592689714,
+  "generator_energy_Wh": 12831.396003947244,
+  "forced_road_orders": 0,
+  "drain_road_fallbacks": 0,
+  "undelivered_orders": 0,
+  "energy_model": "M4 loaded/empty cruise and hover power with M5 dispatch and charging"
+}

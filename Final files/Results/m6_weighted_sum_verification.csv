@@ -1,0 +1,6 @@
+weight_cost,weight_neg_s45,annual_cost_inr,s45_percent,road_fallback_share,p95_emergency_min,on_or_ahead_of_nsga2_front
+1.0,0.0,12880543.79,95.4545,0.0,44.35,True
+0.75,0.25,13503072.22,100.0,0.0,39.82,True
+0.5,0.5,13503072.22,100.0,0.0,39.82,True
+0.25,0.75,13503072.22,100.0,0.0,39.82,True
+0.0,1.0,13503072.22,100.0,0.0,39.82,True

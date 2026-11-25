@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="540" viewBox="0 0 1000 540">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="40" y="38" font-family="Arial" font-size="23" font-weight="700" fill="#0f172a">Annual network cost by M1 payload design</text>
+<text x="40" y="61" font-family="Arial" font-size="13" fill="#475569">INR/year; each point is independently optimized over hubs, assignments, drones and bays</text>
+<line x1="115" y1="75.0" x2="965" y2="75.0" stroke="#e2e8f0"/>
+<text x="103" y="79.0" text-anchor="end" font-family="Arial" font-size="11" fill="#475569">19.8M</text>
+<line x1="115" y1="163.8" x2="965" y2="163.8" stroke="#e2e8f0"/>
+<text x="103" y="167.8" text-anchor="end" font-family="Arial" font-size="11" fill="#475569">14.9M</text>
+<line x1="115" y1="252.5" x2="965" y2="252.5" stroke="#e2e8f0"/>
+<text x="103" y="256.5" text-anchor="end" font-family="Arial" font-size="11" fill="#475569">9.9M</text>
+<line x1="115" y1="341.2" x2="965" y2="341.2" stroke="#e2e8f0"/>
+<text x="103" y="345.2" text-anchor="end" font-family="Arial" font-size="11" fill="#475569">5.0M</text>
+<line x1="115" y1="430.0" x2="965" y2="430.0" stroke="#e2e8f0"/>
+<text x="103" y="434.0" text-anchor="end" font-family="Arial" font-size="11" fill="#475569">0.0M</text>
+<rect x="126.9" y="117.2" width="32.9" height="312.8" rx="4" fill="#3b82f6"/>
+<text x="143.3" y="109.2" text-anchor="middle" font-family="Arial" font-size="10" fill="#334155">17.48M</text>
+<text x="143.3" y="453" text-anchor="middle" font-family="Arial" font-size="11" fill="#334155">M1_0.50kg</text>
+<rect x="183.6" y="114.5" width="32.9" height="315.5" rx="4" fill="#3b82f6"/>
+<text x="200.0" y="106.5" text-anchor="middle" font-family="Arial" font-size="10" fill="#334155">17.64M</text>
+<text x="200.0" y="453" text-anchor="middle" font-family="Arial" font-size="11" fill="#334155">M1_1.00kg</text>
+<rect x="240.2" y="111.3" width="32.9" height="318.7" rx="4" fill="#3b82f6"/>
+<text x="256.7" y="103.3" text-anchor="middle" font-family="Arial" font-size="10" fill="#334155">17.81M</text>
+<text x="256.7" y="453" text-anchor="middle" font-family="Arial" font-size="11" fill="#334155">M1_1.50kg</text>
+<rect x="296.9" y="108.6" width="32.9" height="321.4" rx="4" fill="#3b82f6"/>
+<text x="313.3" y="100.6" text-anchor="middle" font-family="Arial" font-size="10" fill="#334155">17.97M</text>
+<text x="313.3" y="453" text-anchor="middle" font-family="Arial" font-size="11" fill="#334155">M1_2.00kg</text>
+<rect x="353.6" y="100.0" width="32.9" height="330.0" rx="4" fill="#3b82f6"/>
+<text x="370.0" y="92.0" text-anchor="middle" font-family="Arial" font-size="10" fill="#334155">18.45M</text>
+<text x="370.0" y="453" text-anchor="middle" font-family="Arial" font-size="11" fill="#334155">M1_2.50kg</text>
+<rect x="410.2" y="118.2" width="32.9" height="311.8" rx="4" fill="#16a34a"/>
+<text x="426.7" y="110.2" text-anchor="middle" font-family="Arial" font-size="10" fill="#334155">17.43M</text>
+<text x="426.7" y="453" text-anchor="middle" font-family="Arial" font-size="11" fill="#334155">M2_0.50kg</text>
+<rect x="466.9" y="115.5" width="32.9" height="314.5" rx="4" fill="#3b82f6"/>
+<text x="483.3" y="107.5" text-anchor="middle" font-family="Arial" font-size="10" fill="#334155">17.58M</text>
+<text x="483.3" y="453" text-anchor="middle" font-family="Arial" font-size="11" fill="#334155">M2_1.00kg</text>
+<rect x="523.6" y="112.8" width="32.9" height="317.2" rx="4" fill="#3b82f6"/>
+<text x="540.0" y="104.8" text-anchor="middle" font-family="Arial" font-size="10" fill="#334155">17.73M</text>
+<text x="540.0" y="453" text-anchor="middle" font-family="Arial" font-size="11" fill="#334155">M2_1.50kg</text>
+<rect x="580.2" y="109.6" width="32.9" height="320.4" rx="4" fill="#3b82f6"/>
+<text x="596.7" y="101.6" text-anchor="middle" font-family="Arial" font-size="10" fill="#334155">17.91M</text>
+<text x="596.7" y="453" text-anchor="middle" font-family="Arial" font-size="11" fill="#334155">M2_2.00kg</text>
+<rect x="636.9" y="101.0" width="32.9" height="329.0" rx="4" fill="#3b82f6"/>
+<text x="653.3" y="93.0" text-anchor="middle" font-family="Arial" font-size="10" fill="#334155">18.39M</text>
+<text x="653.3" y="453" text-anchor="middle" font-family="Arial" font-size="11" fill="#334155">M2_2.50kg</text>
+<rect x="693.6" y="101.8" width="32.9" height="328.2" rx="4" fill="#3b82f6"/>
+<text x="710.0" y="93.8" text-anchor="middle" font-family="Arial" font-size="10" fill="#334155">18.35M</text>
+<text x="710.0" y="453" text-anchor="middle" font-family="Arial" font-size="11" fill="#334155">M3_0.50kg</text>
+<rect x="750.2" y="82.7" width="32.9" height="347.3" rx="4" fill="#3b82f6"/>
+<text x="766.7" y="74.7" text-anchor="middle" font-family="Arial" font-size="10" fill="#334155">19.41M</text>
+<text x="766.7" y="453" text-anchor="middle" font-family="Arial" font-size="11" fill="#334155">M3_1.00kg</text>
+<rect x="806.9" y="80.2" width="32.9" height="349.8" rx="4" fill="#3b82f6"/>
+<text x="823.3" y="72.2" text-anchor="middle" font-family="Arial" font-size="10" fill="#334155">19.56M</text>
+<text x="823.3" y="453" text-anchor="middle" font-family="Arial" font-size="11" fill="#334155">M3_1.50kg</text>
+<rect x="863.6" y="77.6" width="32.9" height="352.4" rx="4" fill="#3b82f6"/>
+<text x="880.0" y="69.6" text-anchor="middle" font-family="Arial" font-size="10" fill="#334155">19.70M</text>
+<text x="880.0" y="453" text-anchor="middle" font-family="Arial" font-size="11" fill="#334155">M3_2.00kg</text>
+<rect x="920.2" y="75.0" width="32.9" height="355.0" rx="4" fill="#3b82f6"/>
+<text x="936.7" y="67.0" text-anchor="middle" font-family="Arial" font-size="10" fill="#334155">19.85M</text>
+<text x="936.7" y="453" text-anchor="middle" font-family="Arial" font-size="11" fill="#334155">M3_2.50kg</text>
+<text x="25" y="252.5" transform="rotate(-90 25 252.5)" text-anchor="middle" font-family="Arial" font-size="13" fill="#334155">Annual cost (INR)</text>
+</svg>

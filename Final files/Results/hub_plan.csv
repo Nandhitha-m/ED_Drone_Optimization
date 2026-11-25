@@ -1,0 +1,9 @@
+hub_id,name,open,drones,charging_bays,operators_per_shift,served_phcs,daily_busy_min,drone_utilization_percent,daily_energy_wh,bay_throughput_utilization_percent
+H0,District Hospital Kaveripuram,0,0,0,0,,0,0.0,0,0.0
+H1,SDH Nallur,1,2,1,1,P01;P02;P03;P04;P05;P22;P23,1755.863,64.478,28579.977,88.21
+H2,SDH Vadakarai,1,4,2,1,P11;P12;P13;P14;P15;P16;P17;P18;P19,2992.295,54.941,50941.01,78.613
+H3,SDH Thenpatti,0,0,0,0,,0,0.0,0,0.0
+H4,SDH Kizhakkur,0,0,0,0,,0,0.0,0,0.0
+H5,SDH Melmalai,0,0,0,0,,0,0.0,0,0.0
+H6,SDH Kadalpuram,0,0,0,0,,0,0.0,0,0.0
+P09,PHC Arasampatti,1,2,1,1,P06;P07;P08;P09;P10;P20;P21;P24,1814.495,66.632,30348.928,93.67

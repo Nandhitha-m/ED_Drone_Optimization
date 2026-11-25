@@ -1,0 +1,16 @@
+vehicle,payload_kg,m1_range_km,usable_route_limit_km,annual_cost_inr,lp_relaxation_inr,lp_gap_percent,opened_hubs,solver_status,selected
+M1_0.50kg,0.5,33.23646235297198,29.91281611767478,17484254.97,16837525.91,3.6989,H1;H2;P09,Optimization terminated successfully. (HiGHS Status 7: Optimal),False
+M1_1.00kg,1.0,32.61299116311287,29.35169204680159,17635932.77,16949097.61,3.8945,H1;H2;P09,Optimization terminated successfully. (HiGHS Status 7: Optimal),False
+M1_1.50kg,1.5,32.00202338380635,28.80182104542572,17813669.8,17109281.56,3.9542,H5;H6;P09,Optimization terminated successfully. (HiGHS Status 7: Optimal),False
+M1_2.00kg,2.0,31.403665249223238,28.263298724300913,17967036.54,17221253.53,4.1508,H5;H6;P09,Optimization terminated successfully. (HiGHS Status 7: Optimal),False
+M1_2.50kg,2.5,30.817962190092896,27.736165971083608,18447128.82,17772189.35,3.6588,H1;H2;H4,Optimization terminated successfully. (HiGHS Status 7: Optimal),False
+M2_0.50kg,0.5,33.59348794206374,30.234139147857366,17429110.9,16435870.34,5.6987,H1;H2;P09,Optimization terminated successfully. (HiGHS Status 7: Optimal),True
+M2_1.00kg,1.0,32.95865601318703,29.66279041186833,17580691.66,16912013.72,3.8035,H1;H2;P09,Optimization terminated successfully. (HiGHS Status 7: Optimal),False
+M2_1.50kg,1.5,32.33666538663225,29.102998847969022,17732920.3,17023423.53,4.001,H1;H2;P09,Optimization terminated successfully. (HiGHS Status 7: Optimal),False
+M2_2.00kg,2.0,31.727626396516502,28.55486375686485,17911383.86,17183964.52,4.0612,H5;H6;P09,Optimization terminated successfully. (HiGHS Status 7: Optimal),False
+M2_2.50kg,2.5,31.13158581378704,28.01842723240834,18390529.33,17733558.42,3.5723,H1;H2;H4,Optimization terminated successfully. (HiGHS Status 7: Optimal),False
+M3_0.50kg,0.5,26.77696878430677,24.099271905876094,18346356.1,17463097.93,4.8144,H1;H2;H4,Optimization terminated successfully. (HiGHS Status 7: Optimal),False
+M3_1.00kg,1.0,26.26008402903785,23.634075626134063,19414138.74,18542645.31,4.489,H1;H2;H4;P09,Optimization terminated successfully. (HiGHS Status 7: Optimal),False
+M3_1.50kg,1.5,25.749020313732686,23.17411828235942,19556981.72,18649203.59,4.6417,H1;H2;H4;P09,Optimization terminated successfully. (HiGHS Status 7: Optimal),False
+M3_2.00kg,2.0,25.246887519958772,22.722198767962894,19700909.13,18756198.3,4.7953,H1;H2;H4;P09,Optimization terminated successfully. (HiGHS Status 7: Optimal),False
+M3_2.50kg,2.5,24.755616207752883,22.280054586977595,19845548.02,18863371.05,4.9491,H1;H2;H4;P09,Optimization terminated successfully. (HiGHS Status 7: Optimal),False
